@@ -1,1 +1,1 @@
-Machine Learning Speciallization Course by Andrew NG
+Machine Learning Speciallization by Andrew NG
